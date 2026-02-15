@@ -1,0 +1,5 @@
+{
+  "name": "FlyAdmin - Flight Management System",
+  "description": "A modern flight ticket management system with AI-powered data extraction from PDFs, profit tracking, and customer/supplier management.",
+  "requestFramePermissions": []
+}
